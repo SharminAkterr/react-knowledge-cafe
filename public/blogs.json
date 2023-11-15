@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "cover": "https://i.ibb.co/bbtQL03/2.png",
+        "author": {
+            "img": "https://i.ibb.co/x8y9Lq3/boy1.png",
+            "name": "John Doe"
+        },
+        "publish_date": "2023-11-14",
+        "reading_time": 10,
+        "title": "How to get your first job as a self-taught programmer",
+        "hashtags": [
+            "#technology",
+            "#coding"
+        ],
+        "mark_as_read_title": "Mark as Read"
+    },
+    {
+        "id": 2,
+        "cover": "https://i.ibb.co/hgL8x9h/1.jpg",
+        "author": {
+            "img": "https://i.ibb.co/VHJn7jw/boy2.jpg",
+            "name": "Jane Smith"
+        },
+        "publish_date": "2023-11-15",
+        "reading_time": 8,
+        "title": "Top 10 ES6 Feature you must know",
+        "hashtags": [
+            "#science",
+            "#research"
+        ],
+        "mark_as_read_title": "Mark as Read"
+    },
+    {
+        "id": 3,
+        "cover": "https://i.ibb.co/dc47xZ7/3.png",
+        "author": {
+            "img": "https://i.ibb.co/MscKHpR/girl1.jpg",
+            "name": "Alice Johnson"
+        },
+        "publish_date": "2023-11-16",
+        "reading_time": 15,
+        "title": "React Components with props rules",
+        "hashtags": [
+            "#design",
+            "#creative"
+        ],
+        "mark_as_read_title": "Mark as Read"
+    },
+    {
+        "id": 4,
+        "cover": "https://i.ibb.co/wrcyfj6/4.jpg",
+        "author": {
+            "img": "https://i.ibb.co/Ctn0hPX/girl2.jpg",
+            "name": "Bob Anderson"
+        },
+        "publish_date": "2023-11-17",
+        "reading_time": 12,
+        "title": "How to install Tailwind css in React",
+        "hashtags": [
+            "#business",
+            "#strategy"
+        ],
+        "mark_as_read_title": "Mark as Read"
+    },
+    {
+        "id": 5,
+        "cover": "https://i.ibb.co/HHgbCY1/high-angle-plant-notebook-frame.jpg",
+        "author": {
+            "img": "https://i.ibb.co/0CpSKF2/profile.png",
+            "name": "Emily Clark"
+        },
+        "publish_date": "2023-11-18",
+        "reading_time": 7,
+        "title": "Know about UseEffect and UseState",
+        "hashtags": [
+            "#health",
+            "#wellness"
+        ],
+        "mark_as_read_title": "Mark as Read"
+    }
+]
