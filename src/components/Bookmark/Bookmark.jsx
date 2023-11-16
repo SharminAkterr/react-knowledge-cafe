@@ -1,6 +1,6 @@
 import PropTypes from 'prop-types';
-const Bookmark = ({bookmark}) => {
-    const {title} = bookmark;
+const Bookmark = ({ bookmark }) => {
+    const { title } = bookmark;
     // console.log(bookmark)
     return (
         <div className='mb-5 bg-white rounded-lg mx-5 p-5'>
